@@ -1,0 +1,5 @@
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Process Injected",
+    Text = "Successfully injected Process",
+    Duration = 2
+})
